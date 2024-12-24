@@ -108,6 +108,8 @@ class FPS extends TextField
 			text += "\nMemory: " + memoryMegas + " MB";
 			#end
 
+	                text = "\nPort by MintyTSB";
+
 			text += os;
 
 			textColor = 0xFFFFFFFF;
